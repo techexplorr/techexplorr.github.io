@@ -1,8 +1,6 @@
 ## Welcome to my Profile
 
-I am a Software Developer with over 4 years of Experience
-
-I have been learning programming since at the age of 16
+I am a Software Developer with over 4 years of Experience. I have been learning programming since at the age of 16.
 
 ### About Studies
 
