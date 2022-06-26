@@ -1,4 +1,4 @@
-## Welcome to my Profile
+## Welcome to my website
 
 I am a Software Developer with over 4 years of Experience. I have been learning programming since at the age of 16.
 
