@@ -24,5 +24,5 @@ Find me on social media
 [Instagram](https://www.instagram.com/techexplorr)&ensp; &ensp;
 [Github](https://www.github.com/techexplorr)&ensp; &ensp;
 [Twitter](https://www.twitter.com/techexplorr)&ensp; &ensp;
-[Linkedin](https://www.linkedin.com/techexplorr)&ensp; &ensp;
+[Linkedin](https://www.linkedin.com/in/techexplorr/)&ensp; &ensp;
 
