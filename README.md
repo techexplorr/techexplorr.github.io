@@ -17,7 +17,7 @@ Technologies I have learned
 ✧ Javascript
 ✧ PHP
 ```
-___
+
 
 Find me on social media
 
